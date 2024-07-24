@@ -2,3 +2,4 @@ Refouteen
 - Membuat Artificial Intellegence
 - Membuat E-commerce
 Testing
+ping 267ms
